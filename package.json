@@ -24,6 +24,7 @@
     "gatsby": "next",
     "gatsby-image": "next",
     "gatsby-plugin-benchmark-reporting": "*",
+    "gatsby-plugin-gatsby-cloud": "next",
     "gatsby-plugin-page-creator": "next",
     "gatsby-plugin-sharp": "next",
     "gatsby-remark-images": "next",

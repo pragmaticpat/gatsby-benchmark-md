@@ -44,6 +44,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       path: node.fields.path,
       component: path.resolve(`./src/templates/article.js`),
       context: { id: node.id },
+      defer: true,
     })
   })
 }
